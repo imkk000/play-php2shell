@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Container artifacts
+*.log
+*~
+.DS_Store
+
+# Build outputs
+/tmp/*
+!tmp/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
